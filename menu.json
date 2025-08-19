@@ -1,1 +1,37 @@
-
+{
+"restaurant": {
+"name": "Sam's Anna Seafood Tanjungpinang",
+"currency": "IDR",
+"last_updated": "2024-01-01"
+},
+"categories": [
+{ "id": 1, "name": "Seafood Spesial" },
+{ "id": 2, "name": "Minuman" }
+],
+"items": [
+{
+"id": 101,
+"category_id": 1,
+"name": "Ikan Bakar Kepala Batu",
+"description": "Bumbu khas",
+"price": 85000,
+"available": true
+},
+{
+"id": 102,
+"category_id": 1,
+"name": "Udang Saus Padang",
+"description": "",
+"price": 70000,
+"available": true
+},
+{
+"id": 201,
+"category_id": 2,
+"name": "Es Teh Manis",
+"description": "",
+"price": 8000,
+"available": true
+}
+]
+}
